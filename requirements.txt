@@ -1,0 +1,12 @@
+# YOLOv5 requirements
+torch>=1.7, <2.1          # PyTorch (CPU or GPU)
+torchvision>=0.8.1, <0.16 # TorchVision
+numpy>=1.18.5             # Numerical operations
+opencv-python>=4.1.1      # Image processing
+matplotlib>=3.2.2         # Visualization
+PyYAML>=5.3.1             # YAML file parsing
+tqdm>=4.64.0              # Progress bar
+pandas>=1.1.0             # Data handling
+seaborn>=0.11.0           # Statistical visualization
+scipy>=1.4.1              # Scientific computations
+requests>=2.23.0          # HTTP requests
