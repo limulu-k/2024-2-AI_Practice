@@ -2,9 +2,12 @@ data/*
 !data/*/
 data/*/*
 !data/data.yaml
+"pbl 파일"/
 
 datasets/*
 !datasets/*/
 datasets/*/*
 
 .ipynb_checkpoints
+
+*.pt
